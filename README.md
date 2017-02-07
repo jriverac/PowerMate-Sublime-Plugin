@@ -1,7 +1,16 @@
 # PowerMate-Sublime-Plugin
 ## Summary
-I started using Griffin Powermate with Sublime to navigate thru all tabs in my development workflow. Found that is annoying when you navigate too quickly and circle back on the other side of the screen, I wanted to be able to twist the PowerMate knob quickly without having to worry about it going all the way to the other side of the screen. 
+A few weeks ago, I started using **Griffin Powermate** with **Sublime Text 3** and Google Chrome to navigate thru all Tabs in my *development workflow*. 
 
-So I went and built this, as my first attempt to Python. Now I can just map PowerMate's function to what the keybindings are and it will stop at either side of the Tab bar. 
+After a few days I found that **Google Chrome** allows me to turn the know quickly and it will stop by the moment I reach the last tab. Which makes it easy to just navigate quickly, knowing that you'll havigate in the direction you're scrolling.
 
-That's all there is.
+In the case of **Sublime**, it has this annoying tendency to jump to the first tab if you scroll past the last one, the very opposite of what I intended, resulting in you having to think about it and be careful about not jumping back to the beginning.
+
+So I went and built this project as my first attempt to write **Python**.
+
+* Jump to Next Tab in the current Group
+* Jump to Previous Tab in the current Group
+* Jump to First Tab in the current Group
+* Jump to Last Tab in the current Group
+
+This commands can easily be mapped to PowerMate's interactions using the **PowerMate Config** app.
