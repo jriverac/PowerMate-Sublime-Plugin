@@ -1,6 +1,6 @@
 [
-  {"keys": ["super+alt+9"], "command": "power_last_tab"},
-  {"keys": ["super+alt+0"], "command": "power_first_tab"},
-  {"keys": ["super+alt+6"], "command": "power_next_tab"},
-  {"keys": ["super+alt+4"], "command": "power_previous_tab"},
+  {"keys": ["super+ctrl+alt+9"], "command": "power_last_tab"},
+  {"keys": ["super+ctrl+alt+0"], "command": "power_first_tab"},
+  {"keys": ["super+ctrl+alt+6"], "command": "power_next_tab"},
+  {"keys": ["super+ctrl+alt+4"], "command": "power_previous_tab"},
 ]
